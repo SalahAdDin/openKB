@@ -15,7 +15,7 @@
 	"Articles": "Articulos",
 	"Filter articles": "Filtrar articulos",
 	"Filter": "Filtrar",
-	"Reset": "Recargar",
+	"Reset": "Reiniciar",
 	"All": "Todos",
 	"Published": "Publicado",
 	"Recent": "Reciente",
